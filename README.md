@@ -7,3 +7,6 @@ La carpeta original del USB5744 es el: Proyecto_EVB-USB5744
 La carpeta del usb5744 con los reemplazos de los reguladores es: USB5744_v2
 
 La carpeta con los avances de highspeed y potencia es: Proyecto Final
+
+
+El motivo es por si en dado caso se necesite un docuemnto mas que ver y que si no se puede ver en el reporte final, aqui se tienen el resto de las carpetas. 
